@@ -17,7 +17,7 @@ Template programmers: applications for a general purpose host where you can prog
 
 Vhdl: source code for the FPGA part
 
-*Albertazzi Riccardo
-Andraghetti Lorenzo
-Berlati Alessandro
+*Albertazzi Riccardo<br />
+Andraghetti Lorenzo<br />
+Berlati Alessandro<br />
 Corni Gabriele*
