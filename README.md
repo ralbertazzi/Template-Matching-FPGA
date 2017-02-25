@@ -16,3 +16,8 @@ Quartus Projects: "Plug&Play" quartus projects (and .sof files where you can pro
 Template programmers: applications for a general purpose host where you can program the FPGA templates using serial cable (complete project for Linux and a simpler project for Windows)
 
 Vhdl: source code for the FPGA part
+
+*Albertazzi Riccardo
+Andraghetti Lorenzo
+Berlati Alessandro
+Corni Gabriele*
